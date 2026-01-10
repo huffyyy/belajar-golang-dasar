@@ -8,5 +8,5 @@ func getGoodBye(name string) string {
 
 func main() {
 	goodbye := getGoodBye
-	fmt.Println(goodbye(" Husnul"))
+	fmt.Println(goodbye(" Fikri"))
 }
